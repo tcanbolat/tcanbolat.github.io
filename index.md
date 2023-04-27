@@ -4,12 +4,11 @@
 
 ### Image Classification Model
 
-A TensorFlow model that has been trained on a data set of 101 different food types. \
-Model has an accuracy of 97%. \
-Front End UI to upload and predict images.
+A TensorFlow model that has been trained on a data set of 101 different food types. Obtained 97% accuracy using the
+AUC (Area under the curve) algorithim. The AUC metric measures the performance by computing the area under
+the receiver operating characteristic (ROC) curve, which plots the true positive rate against the false positive rate at various threshold values.
 
-<img src="/assets/images/graph.png?raw=true"/>
-<img src="/assets/images/model-architecture.png?raw=true"/>
+<img src="/assets/images/food-model.png?raw=true"/>
 
 [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#)
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
