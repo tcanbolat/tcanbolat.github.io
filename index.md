@@ -2,6 +2,24 @@
 
 ---
 
+### Image Classification Model
+
+A TensorFlow model that has been trained on a data set of 101 different food types. \
+Model has an accuracy of 97%. \
+Front End UI to upload and predict images.
+
+<img src="/assets/images/graph.png?raw=true"/>
+<img src="/assets/images/model-architecture.png?raw=true"/>
+
+[![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Vue.js-white?logo=Vue.js)](#)
+
+[Demo App](https://foodidentify.herokuapp.com/) \
+[View code on GitHub](https://github.com/tcanbolat/FoodIDentify)
+
+---
+
 ### SVG Transformations
 
 Example of tweening svg paths from one shape to another using Flubber and D3 js.
